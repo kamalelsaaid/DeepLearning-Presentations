@@ -1,5 +1,7 @@
 # Presentation-on-R-CNN ( Hands-on R-CNN full knowledge )
 
+Presentation on R-CNN comparing it with its updated version : Fast R-CNN, Faster R-CNN and Mask R-CNN
+
 Rich feature hierarchies for accurate object detection and semantic segmentation
 paper  by: 		Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik.
 
