@@ -6,7 +6,8 @@
 
 # 1) Presentation on R-CNN ( Hands-on R-CNN full knowledge ) comparing it with its updated version : Fast R-CNN, Faster R-CNN and Mask R-CNN
 
-Rich feature hierarchies for accurate object detection and semantic segmentation
+Paper:
+- Rich feature hierarchies for accurate object detection and semantic segmentation
 paper  by: 		Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik.
 
 Presented by: Kamal Zakieldin      (University of Innsbruck, Austria.)
