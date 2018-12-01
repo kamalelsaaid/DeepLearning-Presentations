@@ -2,9 +2,9 @@
 
 
 
-1) 
+ 
 
-# Presentation on R-CNN ( Hands-on R-CNN full knowledge ) comparing it with its updated version : Fast R-CNN, Faster R-CNN and Mask R-CNN
+# 1) Presentation on R-CNN ( Hands-on R-CNN full knowledge ) comparing it with its updated version : Fast R-CNN, Faster R-CNN and Mask R-CNN
 
 Rich feature hierarchies for accurate object detection and semantic segmentation
 paper  by: 		Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik.
@@ -24,9 +24,9 @@ Contains:
 4- comparing it with its updated versions : Fast R-CNN, Faster R-CNN and Mask R-CNN.
 
 
-2) 
 
-# Presentation on GNN ( Hands-on-Graph-Neural-Network )
+
+# 2) Presentation on GNN ( Hands-on-Graph-Neural-Network )
 
 Papers:
 - The Graph Neural Network Model ( Gori et al. 2005 )
