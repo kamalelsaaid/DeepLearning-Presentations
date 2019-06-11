@@ -44,3 +44,53 @@ Contains:
 3- Advantages
 
 4- Applications
+
+
+
+# 3) Presentation on NLP to Logic ( Natural Language to Logical Form )
+
+
+Understanding natural language has not been treated consistently using logic. In this presentation we will discuss work that uses deep learning to translate natural language sentences to logical formulas while attempting to preserve their logical meaning using attention.
+
+Paper:
+Language to Logical Form with Neural Attention ( L. Dong, M. Lapata ACL, 2016 )
+
+Presented by: Kamal Zakieldin      (University of Innsbruck, Austria.)
+
+Contains:
+
+1- Neural Network terminology.
+
+2- Problem Formulation
+
+3- Seq2Seq Model
+
+4- Seq2Tree Model
+
+5- Pre-processing
+
+6- Datasets and Results.
+
+
+# 4) Presentation on HOList ( Hands-on HOList )
+
+Automate the formalization of large theories could be possible, using automated interactive theorem provers systems (AITP)
+
+Paper:
+HOList: An Environment for Machine Learning of Higher-Order Theorem Proving ( K. Bansal, S. M. Loos, M. N. Rabe, C. Szegedy, S. Wilcox google search group, 2019).
+
+Presented by: Kamal Zakieldin      (University of Innsbruck, Austria.)
+
+Contains:
+
+1- HOList environment 
+
+2- HOL Light ITP as a benchmark
+
+3- DeepHOL ATP
+	- Neural Archticture
+	- Reinforcement Learning Loop
+
+4- Results
+
+5- Pros & Cons.
