@@ -94,3 +94,21 @@ Contains:
 4- Results
 
 5- Pros & Cons.
+
+
+
+
+# 5) Presentation on Program Analysis( Inducing Operation )
+
+Abstraction Interpretation the most important program analyses to use, in this presentation, we explain the inducing by abstraction process and inducing by concretization as well.
+
+Book:
+Principles of Program Analysis Chapter 4 (Abstraction Interpretation)
+
+Presented by: Fabian Schaub and Kamal Zakieldin      (University of Innsbruck, Austria.)
+
+Contains:
+
+1- Inducing by Abstraction
+
+2- Inducing by Concretization
